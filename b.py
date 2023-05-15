@@ -378,3 +378,5 @@ for i in range(len(s)):
         elif(sub[0] not in complete_list) and (sub[0][-1]!=":"):
             print("typo error at line ",n)
             quit()
+            
+f.close()
