@@ -380,3 +380,6 @@ for i in range(len(s)):
             quit()
             
 f.close()
+# for input : for kx in sys.stdin:
+#                  cmd_list.append(kx)
+# for output : sys.stdout.write("YourAnsString")  
